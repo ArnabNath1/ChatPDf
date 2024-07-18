@@ -48,15 +48,15 @@ Run the Streamlit app:
 
 # Interact with the app:
 
-Open your browser and go to http://localhost:8501.
-Upload your PDF files using the file uploader in the sidebar.
-Enter a question related to the content of the uploaded files.
-Click on the "Submit & Process" button to process the files.
-View the answer to your question displayed on the main page.
+** Open your browser and go to http://localhost:8501.
+**Upload your PDF files using the file uploader in the sidebar.
+**Enter a question related to the content of the uploaded files.
+**Click on the "Submit & Process" button to process the files.
+**View the answer to your question displayed on the main page.
 
 # File Structure
 
-requirements.txt: Contains all the dependencies to be downloaded.
-app.py: Main script to run the Streamlit app.
-.env: File to store environment variables (not included in the repository, needs to be created).
-README.md: This file.
+**requirements.txt: Contains all the dependencies to be downloaded.
+**app.py: Main script to run the Streamlit app.
+**.env: File to store environment variables (not included in the repository, needs to be created).
+**README.md: This file.
