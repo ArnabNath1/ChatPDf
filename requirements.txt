@@ -1,0 +1,12 @@
+faiss-cpu
+langchain
+llama-index
+PyPDF2
+langchain-community
+streamlit
+langchain-google-genai
+python-dotenv
+google.generativeai
+chromadb
+python-pptx
+transformers
