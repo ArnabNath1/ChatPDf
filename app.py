@@ -105,7 +105,6 @@ def main():
                 get_vector_store(text_chunks)
                 st.success("Done")
 
-    st.write("Created with ❤️ by [Raushan Kumar](https://github.com/raushan9jnv)")
 
 if __name__ == "__main__":
     main()
